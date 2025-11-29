@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "ex1.h"
 
-int main(void) {
+int main(){
 
     Lista *minhaLista = lst_cria();
     
