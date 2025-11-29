@@ -1,6 +1,6 @@
 //Carlos Barroca Faria e José Davi Silveira Gomes 29/11
-#ifndef LISTA_H
-#define LISTA_H
+#ifndef EX1_H
+#define EX1_H
 
 typedef struct celula Lista;
 
